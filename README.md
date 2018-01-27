@@ -4,7 +4,8 @@ This project is part of courses
 - [Aprenda Angular 2 + Nativescript e crie um WhatsApp](https://www.udemy.com/angular-native) (coming soon).
 
 At the moment, only available in Portuguese, but English versions are coming
-very soon. :)
+very soon. ok ok ok ok ok :)
+
 
 [![N|Solid](https://udemy-images.udemy.com/course/480x270/1151322_85db.jpg)](https://www.udemy.com/curso-javascript-do-futuro)
 
